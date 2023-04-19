@@ -10,7 +10,7 @@ project untuk membuat penampung API meme
 #### Get all items
 
 ```http
-  GET http://localhost:3299/meme
+  GET http://localhost:5000/meme
 ```
 
 | Parameter | Type     | Description                |
@@ -20,7 +20,7 @@ project untuk membuat penampung API meme
 #### Get item
 
 ```http
-  GET http://localhost:3299/meme/:id
+  GET http://localhost:5000/meme/:id
 ```
 
 | Parameter | Type     | Description                       |
@@ -30,7 +30,7 @@ project untuk membuat penampung API meme
 #### Get item
 
 ```http
-  POST http://localhost:3299/meme
+  POST http://localhost:5000/meme
 ```
 
 | Parameter | Type     |   Description                  |
